@@ -12,7 +12,7 @@
 #include "policy.h"
 #include "log.h"
 
-// #define  DEBUG
+#define  DEBUG
 
 int main(int argc, char *argv[])
 {
